@@ -1,0 +1,61 @@
+.pink-img{
+	background-image: url("../img/birth_month_flowers-primary-1920x1280px_pixabay.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	padding-top: 183px;
+	padding-bottom: 37px;
+}
+.white {
+	color: white;
+
+}
+.icon1{
+	background-color: skyblue;
+	border-radius: 50%;
+	padding: 93px 0px;
+}
+.icon2{
+	background-color: green;
+	border-radius: 50%;
+	padding: 93px 0px;
+}
+.icon3{
+	background-color: skyblue;
+	border-radius: 50%;
+	padding: 93px 0px;
+}
+.icon4{
+	background-color: orange;
+	border-radius: 50%;
+	padding: 93px 0px;
+}
+.myiconadjust{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.footer1{
+	background-color: #4a4141;
+	padding: 45px: 0px;
+}
+.footlist li a{
+	color: gray;
+}
+.footlist{
+	list-style-type: none;
+}
+.foothead{
+	padding: 45px: 25px;
+	color: grey;
+}
+.footlinks a{
+	background-color: grey;
+	padding: 13px;
+	border-radius: 50%;
+	color: #4a4141;
+}
+.adjust-icon{
+	padding-top: 20px;
+}
+
+adeniran opeyemi
